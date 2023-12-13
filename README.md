@@ -31,17 +31,17 @@ The editor also supports common keyboard shortcuts for various operations:
 1. **Installation**
    - Ensure you have Python installed on your system.
    - Clone this repository:
-     ``bash
+     ``
      git clone https://github.com/Athallah1234/Code-Editor.git
      ``
    - Install required packages:
-     ``bash
+     ``
      pip install -r requirements.txt
      ``
 2. **Run the Editor**
    - Open a terminal in the project directory.
    - Run the editor:
-     ``bash
+     ``
      python run.py
      ``
 3. **Usage**
@@ -52,19 +52,19 @@ The editor also supports common keyboard shortcuts for various operations:
 ## Contribute
 
 1. Fork the repository and clone it to your local machine:
-   ``bash
+   ``
    git clone https://github.com/Athallah1234/Code-Editor.git
    ``
 2. Create a new branch for your changes:
-   ``bash
+   ``
    git checkout -b feature/new-feature
    ``
 3. Make your changes and commit them:
-   ``bash
+   ``
    git commit -m "Add new feature"
    ``
 4. Push your changes to your fork:
-   ``bash
+   ``
    git push origin feature/new-feature
    ``
 5. Open a pull request on the main repository.
