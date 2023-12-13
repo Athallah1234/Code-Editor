@@ -69,6 +69,23 @@ The editor also supports common keyboard shortcuts for various operations:
    ``
 5. Open a pull request on the main repository.
 
+## How to Upgrade
+
+To upgrade to Modern Code Editor, follow these steps:
+
+- **Pull the Latest Changes:** If you've cloned the repository, pull the latest changes from the main repository.
+  ```bash
+  git pull origin main
+  ```
+- **Update Dependencies:** If there are new dependencies or updates, ensure they are installed.
+  ```bash
+  pip install -r requirements.txt
+  ```
+- **Run the Editor:** Start the editor as usual.
+  ```bash
+  python run.py
+  ```
+
 ## Code Style
 
 Please follow the existing code style to maintain consistency throughout the project. If there are specific style guidelines for the language used, adhere to them.
