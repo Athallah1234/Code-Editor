@@ -11,6 +11,20 @@ Modern Code Editor is a versatile and user-friendly code editor built using the 
 - **Zoom and Fullscreen:** Customize your view with zoom in/out options and toggle fullscreen for a distraction-free environment.
 - **Theming Support:** Choose from a variety of themes to personalize your coding environment.
 
+## Shortcuts
+
+The editor also supports common keyboard shortcuts for various operations:
+
+- **Cut:** Ctrl + X
+- **Copy:** Ctrl + C
+- **Paste:** Ctrl + V
+- **Find:** Ctrl + F
+- **Replace:** Ctrl + H
+- **Run:** F5
+- **Debug:** F9
+- **Zoom In:** Ctrl + +
+- **Zoom Out:** Ctrl + -
+
 ## Getting Started
 
 1. **Installation**
