@@ -10,6 +10,7 @@ Modern Code Editor is a versatile and user-friendly code editor built using the 
 - **Run and Debug Code:** Execute your code directly from the editor. Debugging is made easy with the built-in debugger.
 - **Zoom and Fullscreen:** Customize your view with zoom in/out options and toggle fullscreen for a distraction-free environment.
 - **Theming Support:** Choose from a variety of themes to personalize your coding environment.
+- **Keyboard Shortcuts:** Speed up your workflow with convenient keyboard shortcuts for common operations.
 
 ## Shortcuts
 
@@ -48,6 +49,42 @@ The editor also supports common keyboard shortcuts for various operations:
    - Use the menu options for file and edit operations.
    - Run, debug, or customize your view using the menu bar.
   
+## Contribute
+
+1. Fork the repository and clone it to your local machine:
+   ``bash
+   git clone https://github.com/yourusername/modern-code-editor.git
+   ``
+2. Create a new branch for your changes:
+   ``bash
+   git checkout -b feature/new-feature
+   ``
+3. Make your changes and commit them:
+   ``bash
+   git commit -m "Add new feature"
+   ``
+4. Push your changes to your fork:
+   ``bash
+   git push origin feature/new-feature
+   ``
+5. Open a pull request on the main repository.
+
+## Code Style
+
+Please follow the existing code style to maintain consistency throughout the project. If there are specific style guidelines for the language used, adhere to them.
+
+## Testing
+
+Ensure that your changes do not introduce new bugs and that existing functionality still works as expected. If applicable, include unit tests with your contributions.
+
+## Commit Messages
+
+Write clear and concise commit messages. Follow the conventional commits format if applicable.
+  
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+Happy coding!
+
+© 2023 Your Name
