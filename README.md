@@ -53,7 +53,7 @@ The editor also supports common keyboard shortcuts for various operations:
 
 1. Fork the repository and clone it to your local machine:
    ``bash
-   git clone https://github.com/yourusername/modern-code-editor.git
+   git clone https://github.com/Athallah1234/Code-Editor.git
    ``
 2. Create a new branch for your changes:
    ``bash
