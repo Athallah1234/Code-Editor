@@ -36,7 +36,7 @@ The editor also supports common keyboard shortcuts for various operations:
      ``
    - Install required packages:
      ``bash
-     pip install ttkthemes
+     pip install -r requirements.txt
      ``
 2. **Run the Editor**
    - Open a terminal in the project directory.
