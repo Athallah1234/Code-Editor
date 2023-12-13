@@ -27,7 +27,7 @@ Modern Code Editor is a versatile and user-friendly code editor built using the 
    - Open a terminal in the project directory.
    - Run the editor:
      ``bash
-     python code_editor.py
+     python run.py
      ``
 3. **Usage**
    - Create a new file or open an existing one.
